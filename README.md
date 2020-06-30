@@ -1,1 +1,1 @@
-# Algorithm_Lab_Task
+# Algorithm_Lab_Class_Task
