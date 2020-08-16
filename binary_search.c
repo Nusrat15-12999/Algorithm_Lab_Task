@@ -36,7 +36,7 @@ int main()
             break;
         }
 
-        //mid=(left+right)/2;
+        mid=(left+right)/2;
         if(left>right)
         {
             printf("not found");
